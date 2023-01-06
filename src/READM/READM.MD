@@ -28,7 +28,7 @@ O objetivo do projeto foi criar um site de pokedex que  é uma enciclopédia vir
 ## LAYOUT
 
 - HOME
-![HOMEPAGE](./home1.jpg)
+![HOMEPAGE](./HOME1.jpg)
 - POKEDEX
 ![POKEDEX](./POKEDEX.jpg)
 - DETALHES
