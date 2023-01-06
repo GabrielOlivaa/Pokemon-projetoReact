@@ -36,4 +36,4 @@ O objetivo do projeto foi criar um site de pokedex que  é uma enciclopédia vir
 #
 ## LINK
 
-
+https://pokemon-projeto-react.vercel.app/
